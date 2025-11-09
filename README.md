@@ -93,21 +93,21 @@ Descargando...
 
 Toma los .mp3 que pongas en input_songs/ y crea una estructura como esta:
 
-# CALABRIA/
-# ├── main.xml
-# ├── loc/
-# │   └── en.txt
-# └── sounds/
-#     ├── assault.ogg
-#    ├── assaultintro.ogg
-#    ├── buildup.ogg
-#    ├── buildupintro.ogg
-#    ├── control.ogg
-#    ├── controlintro.ogg
-#    ├── menu.ogg
-#    ├── menuintro.ogg
-#    ├── stealth.ogg
-#    └── stealthintro.ogg
+CALABRIA/
+ ├── main.xml
+ ├── loc/
+ │   └── en.txt
+ └── sounds/
+     ├── assault.ogg
+    ├── assaultintro.ogg
+    ├── buildup.ogg
+    ├── buildupintro.ogg
+    ├── control.ogg
+    ├── controlintro.ogg
+    ├── menu.ogg
+    ├── menuintro.ogg
+    ├── stealth.ogg
+    └── stealthintro.ogg
 
 
 
